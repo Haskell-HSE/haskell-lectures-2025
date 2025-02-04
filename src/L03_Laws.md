@@ -3,7 +3,7 @@
 {-# LANGUAGE GeneralizedNewtypeDeriving #-}
 {-# LANGUAGE InstanceSigs #-}
 
-module L2_Laws where
+module L03_Laws where
 ```
 
 # Typeclass laws

@@ -127,7 +127,7 @@ one: it has an extension `.lhs`. Each module starts with compiler pragmas
 {-# OPTIONS_GHC -Wno-type-defaults #-}
 {-# OPTIONS_GHC -Wno-unused-matches #-}
 
-module L1_Intro where
+module L012_Intro where
 ```
 
 (Compiler pragmas above disable some warnings as we're first going to show some

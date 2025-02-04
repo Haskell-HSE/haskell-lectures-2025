@@ -56,7 +56,7 @@ library
     -- Modules exported by the library.
     exposed-modules:    MyLib
     -- Modules included in this library but not exported.
-    other-modules:      L1_Intro, L2_Laws
+    other-modules:      L012_Intro, L03_Laws, L04_Monads
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
 
