@@ -61,7 +61,8 @@ library
       L03_Laws,
       L04_Monads,
       L05_Parsers,
-      L06_Transformers
+      L06_Transformers,
+      L07_Parametricity
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
 
