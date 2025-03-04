@@ -62,7 +62,8 @@ library
       L04_Monads,
       L05_Parsers,
       L06_Transformers,
-      L07_Parametricity
+      L07_Parametricity,
+      L08_Streaming
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
 
