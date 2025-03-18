@@ -72,12 +72,13 @@ library
       L05_Parsers,
       L06_Transformers,
       L07_Parametricity,
-      L08_Streaming
+      L08_Streaming,
+      L10_TypeLevel
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
 
     -- Other library packages from which modules are imported.
-    build-depends:      base ^>=4.18, markdown-unlit
+    build-depends:      base ^>=4.18, containers, markdown-unlit, text
     build-tool-depends: markdown-unlit:markdown-unlit
     -- Directories containing source files.
     hs-source-dirs:     src
